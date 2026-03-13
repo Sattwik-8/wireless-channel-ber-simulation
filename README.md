@@ -83,7 +83,7 @@ BER vs SNR Performance Analysis
 
 ![BER Plot](figures/ber_plot.png)
 
-```
+
 ### Observations
 
 - **BPSK and QPSK** show similar BER performance in AWGN channels.
